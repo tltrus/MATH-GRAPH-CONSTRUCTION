@@ -1,7 +1,7 @@
 # MATH-GRAPH-CONSTRUCTION
  
 **CONTENTS**
-+ Configuration model
++ Configuration model https://github.com/tltrus/MATH-GRAPH-CONSTRUCTION/blob/main/README.md#configuration-model
 
 
 
