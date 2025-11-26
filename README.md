@@ -22,6 +22,14 @@ C# app for graph construction.
 ![image](https://github.com/user-attachments/assets/d7075c32-0678-4008-965e-d3b2cb820326)
 
 
+## HNSW-graph-construction
+C# app for graph Hierarchical Navigable Small World.
+- Youtube: 
+- Rutube: 
+
+<img width="506" height="360" alt="image" src="https://github.com/user-attachments/assets/31f68c38-8e35-41d1-9c8d-e0c54e4865ae" />
+
+
 ## NSW-graph-construction
 C# app for graph construction.
 - Youtube: https://youtu.be/4hRw_W4ajgI
